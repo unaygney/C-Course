@@ -1,0 +1,5 @@
+# dSYM dosyalarını yükleme
+*.dSYM
+
+# vscode yapılandırma dosyalarını yükleme
+.vscode/
