@@ -14,7 +14,7 @@ int main()
     int number = 10;
     float number2 = 5.56;
 
-    printf(" Birinci Sayim : %d 2.ci Sayim %f", number , number2);
+    printf(" Birinci Sayim : %d 2.ci Sayim %f", number, number2);
 
     return 0;
 }
