@@ -3,7 +3,7 @@
 int main()
 {
 
-    int x = 15;
+    int x = 9;
     int y = 15;
     // int result = x % y;
 
@@ -21,6 +21,15 @@ int main()
         && || !
     */
 
-    printf("%d", x > 10 && x > 20 || x > 12);
+    // printf("%d", x > 10 && x > 20 || x > 12);
+
+    if (x > 10)
+    {
+        printf("X 10'dan buyuktur");
+    }
+    else
+    {
+        printf("x 10'dan kucuktur");
+    };
     return 0;
 }
