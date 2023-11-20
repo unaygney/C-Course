@@ -15,7 +15,12 @@ void isOdd(int sayi)
 int main()
 {
 
-    isOdd(5);
+    int i;
+
+    printf("Lutfen bir sayi giriniz:");
+    scanf("%d", &i);
+
+    isOdd(i);
 
     return 0;
 }
