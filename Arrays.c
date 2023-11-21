@@ -11,7 +11,7 @@ int main()
     //     }
 
     int ogrenci_tablosu[5][8];
-    int i, j;
+    int i, j; 
 
     for (i = 0; i < 5; i++)
     {
